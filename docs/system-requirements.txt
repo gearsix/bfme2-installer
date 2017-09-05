@@ -1,0 +1,26 @@
+-------------------
+bfme2-installer.exe
+-------------------
+OS: Windows 10
+
+-------------------------------------------------------------------------------
+Lord of the Rings: The Battle For Middle-Earth II / The Rise of the Witch-King
+-------------------------------------------------------------------------------
+Minimum
+OS:	Windows XP or higher
+CPU:	1.6GGHz
+RAM:	256MB
+HDD:	6GB
+GPU:	Nvidia GeForce3
+	ATI Radeon 8500
+	64MB of VRAM
+	DirectX 9.0c compatible
+
+Recommended
+OS:	Windows XP or higher
+CPU:	Intel Pentium 4.3GHz
+	AMD Athlon XP 3GHz
+RAM:	1GB
+HDD:	6GB
+GPU:	Nvidia GeForce 7800
+	128MB of VRAM

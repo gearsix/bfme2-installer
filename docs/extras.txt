@@ -1,0 +1,9 @@
+------------------------------------------------------------------------------
+Lord of the Rings: The Battle for Middle-Earth 2 / The Rise of the Witch-King
+------------------------------------------------------------------------------
+Widescreen Camera Fix
+http://www.wsgf.org/forums/viewtopic.php?f=63&t=16029
+
+Notes:
+The game will run fine in widescreen, this mod basically fixes the camera so that it's more zoomed out (the default camera is designed for 4:3 screens).
+It's important to note that running this might stop you being able to access the multiplayer because the game will detect the .exe as invalid.

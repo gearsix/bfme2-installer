@@ -1,0 +1,33 @@
+=========================
+Installation Instructions
+=========================
+-------------------------
+Using bfme2-installer.exe
+-------------------------
+
+NOTE: bfme2-installer.exe only works with Windows 10!
+
+1. Run bfme2-installer.exe
+2. Select the game or expansion (to install)
+3. Install the game/expansion
+4. Apply the pirate crack
+5. Run the widescreen patcher
+
+##################################################################
+# If you don't want to do this manually, use bfme2-installer.exe #
+##################################################################
+------
+Manual
+------
+Lord of the Rings: The Battle for Middle-Earth 2
+1. Mount game_files\bfme2\disc1.iso file
+2. Run 'AutoRun.exe' from the mounted .iso file
+3. Copy game_files/bfme2/game.dat to the installation folder
+4. Copy game_files/options.ini to "%APPDATA%\Roaming\My Battle for Middle-earth(tm) II Files"
+
+
+Lord of the Rings: The Battle for Middle-Earth 2, The Rise of The Witch-King
+1. Mount game_files\rotwk\disc1.iso file
+2. Run 'AutoRun.exe' from the mounted .iso file
+3. Copy game_files/rotwk/game.dat to the installation folder
+4. Copy game_files/options.ini to "%APPDATA%\Roaming\My The Lord of the Rings, The Rise of the Witch-king Files"

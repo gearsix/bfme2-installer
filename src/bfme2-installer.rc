@@ -1,0 +1,24 @@
+id ICON "bfme2-installer.ico"
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "080904E4"
+    BEGIN
+      VALUE "CompanyName", "GeaR SiX"
+      VALUE "FileDescription", "Install wrapper for Lord of the Rings: The Battle For Middle-Earth 2 (and expansion) ISO files"
+      VALUE "FileVersion", "1.0"
+      VALUE "InternalName", "bfme2-installer"
+      VALUE "LegalCopyright", "GeaR SiX"
+      VALUE "OriginalFilename", "bfme2-installer.exe"
+      VALUE "ProductName", "bfme2-installer"
+      VALUE "ProductVersion", "1.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x809, 1252
+  END
+END
