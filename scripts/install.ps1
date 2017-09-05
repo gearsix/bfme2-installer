@@ -11,7 +11,6 @@ $TARGET_ISO = $DIR_START+'\game_files\'+$TARGET+'\disc1.iso'	#target iso file
 $MOUNT = Mount-DiskImage $TARGET_ISO -PassThru
 $DRIVE = ($MOUNT | Get-Volume).DriveLetter + ":\"	#get drive letter of MOUNT
 
-#print serial keys for user
 "`t Installing..."
 #cd to DRIVE (installer searched for .dll filed in current directory)
 cd $DRIVE
