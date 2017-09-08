@@ -9,7 +9,6 @@ An install wrapper for Lord of the Rings: Battle for Middle-Earth 2 .iso files, 
 2. [Usage](##Usage)
 3. [Compiling](##Compiling)
 4. [Authors](##Authors)
-5. [Changelog](##Changelog)
 
 ## Disclaimer
 This project does not include any game files or serial keys.
